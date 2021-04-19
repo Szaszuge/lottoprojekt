@@ -51,8 +51,9 @@ hr
     width: 90%;
     border-color: grey;
 }
-/*krenel xd*/
-.golyo {
+
+.golyo 
+{
     width: 100px;
     height: 100px;
     text-align: center;
@@ -61,18 +62,23 @@ hr
     background-size: 100px;
     background-repeat: no-repeat;
 }
-.golyo-piros {
-    background-image: url("");
+.golyo-piros 
+{
+    background-image: url("/*ide jon majd kep*/");
 }
-.golyo-narancs {
+.golyo-narancs 
+{
     background-image: url("narancs-golyo.png");
 }
-.golyo-zold {
+.golyo-zold 
+{
     background-image: url("zold-golyo.png");
 }
-.golyo-kek {
-    background-image: url("");
+.golyo-kek 
+{
+    background-image: url("/*ide jon majd kep*/");
 }
-.golyo-lila {
-    background-image: url("");
+.golyo-lila 
+{
+    background-image: url("/*ide jon majd kep*/");
 }
