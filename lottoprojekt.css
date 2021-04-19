@@ -1,6 +1,10 @@
+html {height: 100%;}
+
 body
 {
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    height: 100%;
 }
 
 
@@ -9,27 +13,21 @@ body
     width: 70%;
     float: right;
     margin: auto;
-    text-align: center;
+    
 }
-
-#jobb li
-{
-    text-align: left;
+#jobb h1 {font-size: 60px;}
+#jobb * {
     margin-left: 100px;
-    font-size: 50px;
-    font-weight: bold;
 }
-
 
 #bal
 {
     width: 30%;
     height: 100%;
     background-color: rgb(96, 105, 114);
-    color: white;
     float: left;
+    line-height: 30px;
 }
-
 
 #bal h2
 {
@@ -37,17 +35,44 @@ body
     margin-left: 30px;
 }
 
-
+#bal img {width: 100%;}
+#bal ul li a {
+    text-decoration: none;
+    color: white;
+}
 h2
 {
     text-align: left;
-    margin-left: 100px;
+    margin-left: 50px;
     font-size: 35px;
 }
-
-
 hr
 {
     width: 90%;
     border-color: grey;
+}
+/*krenel xd*/
+.golyo {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    background-size: 100px;
+    background-repeat: no-repeat;
+}
+.golyo-piros {
+    background-image: url("");
+}
+.golyo-narancs {
+    background-image: url("narancs-golyo.png");
+}
+.golyo-zold {
+    background-image: url("zold-golyo.png");
+}
+.golyo-kek {
+    background-image: url("");
+}
+.golyo-lila {
+    background-image: url("");
 }
