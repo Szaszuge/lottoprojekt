@@ -1,4 +1,7 @@
 # lottoprojekt
-Máté
-Csanád
-Misi
+- Máté
+css
+-Csanád
+html
+-Misi
+képek
