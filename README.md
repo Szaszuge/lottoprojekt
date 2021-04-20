@@ -1,7 +1,7 @@
 # lottoprojekt
 - Máté
 css
--Csanád
+- Csanád
 html
--Misi
+- Misi
 képek
