@@ -1,2 +1,4 @@
 # lottoprojekt
-- insert dokumentáció here
+Máté
+Csanád
+Misi
