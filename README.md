@@ -5,4 +5,4 @@ css
 html
 - Misi
 képek
--Weboldal elérése: https://szaszuge.github.io/lottoprojekt/
+- Weboldal elérése: https://szaszuge.github.io/lottoprojekt/
