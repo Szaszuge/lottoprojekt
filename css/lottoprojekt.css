@@ -64,21 +64,21 @@ hr
 }
 .golyo-piros 
 {
-    background-image: url("kepek/piros-golyo.png");
+    background-image: url("..kepek/piros-golyo.png");
 }
 .golyo-narancs 
 {
-    background-image: url("kepek/narancs-golyo.png");
+    background-image: url("..kepek/narancs-golyo.png");
 }
 .golyo-zold 
 {
-    background-image: url("kepek/zold-golyo.png");
+    background-image: url("..kepek/zold-golyo.png");
 }
 .golyo-kek 
 {
-    background-image: url("kepek/kek-golyo.png");
+    background-image: url("..kepek/kek-golyo.png");
 }
 .golyo-lila 
 {
-    background-image: url("kepek/lila-golyo.png");
+    background-image: url("..kepek/lila-golyo.png");
 }
