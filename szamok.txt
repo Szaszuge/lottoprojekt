@@ -15,3 +15,9 @@ Leghasonlóbb számsorok:
 
 1987-10-08
 1;25;64;71;83
+
+A három leghosszabb sorozatot tartalmazo szamsor(ok):
+
+38;39;40;73;83
+24;75;83;84;85
+12;26;69;70;71
